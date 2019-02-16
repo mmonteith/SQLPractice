@@ -1,10 +1,5 @@
 """
-Michelle Monteith
-ISTA 131 - HW4
-
-SL: Andrew
-
-<Desc>
+Creating a pandas DataFrame from a csv file. Also some practice using SQL on a class database.
 """
 
 import pandas as pd
