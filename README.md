@@ -1,1 +1,1 @@
-# Python-SQL-Practice
+# SQLPractice
